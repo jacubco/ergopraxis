@@ -1,0 +1,17 @@
+{
+  "name": "site-epb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "browser-sync": "^2.26.13",
+    "gulp": "^4.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+   "start": "./node_modules/gulp/bin/gulp.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
